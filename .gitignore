@@ -1,0 +1,16 @@
+# Private notes
+CLAUDE.md
+assignment.md
+
+# Patient data (never commit)
+data/
+
+# Large reference papers
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
