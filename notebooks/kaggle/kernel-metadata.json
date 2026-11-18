@@ -1,0 +1,17 @@
+{
+ "id": "lakshsarda/xray-to-3d-training",
+ "title": "xray-to-3d-training",
+ "code_file": "xray_to_3d_kaggle.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": true,
+ "enable_gpu": true,
+ "enable_internet": false,
+ "dataset_sources": [
+  "lakshsarda/xray-prepared-scans"
+ ],
+ "kernel_sources": [
+  "lakshsarda/xray-to-3d-training"
+ ],
+ "competition_sources": []
+}

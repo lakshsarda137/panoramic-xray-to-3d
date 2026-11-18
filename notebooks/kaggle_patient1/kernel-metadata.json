@@ -1,0 +1,17 @@
+{
+ "id": "lakshsarda/xray-to-3d-patient1",
+ "title": "xray-to-3d-patient1",
+ "code_file": "xray_to_3d_patient1.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": true,
+ "enable_gpu": true,
+ "enable_internet": false,
+ "dataset_sources": [
+  "lakshsarda/patient1-xray"
+ ],
+ "kernel_sources": [
+  "lakshsarda/xray-to-3d-training"
+ ],
+ "competition_sources": []
+}

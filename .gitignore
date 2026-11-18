@@ -14,3 +14,14 @@ __pycache__/
 .venv/
 .ipynb_checkpoints/
 .DS_Store
+
+# Raw downloads
+*.zip
+
+# Generated images of patient data
+outputs/
+
+# Personal tools, not part of the method
+scripts/make_slides.js
+scripts/tf3_browser_download.js
+scripts/start_shrinker.sh
